@@ -7,16 +7,13 @@
 Tired of multi-step purchases? This plugin adds a "Buy Now" button to your WooCommerce product pages and store loops, allowing customers to skip the cart and go directly to checkout. Streamline the buying process and increase conversions with a frictionless one-click experience.
 
 **Author**: @MarcosTag
+**Licence**: [**GPL v2 or later**](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Requires
 
     - PHP: >= versin 7.4
     - Wordpress >= 6.5
     - Woocommerce >= 9.0
-
-## License
-
-[**GPL v2 or later**](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
 
@@ -29,16 +26,16 @@ Tired of multi-step purchases? This plugin adds a "Buy Now" button to your WooCo
     b. On this screen, in the "Add to cart behavior" option, the input "Enable AJAX add to cart buttons on archives" must be CHECKED;
 > 5. After following these brief instructions, this Plugin will be ready to be activated and configured.
 
-## About me
+## Social Media
 
-### Social Media
-
-    - [LinKedIn](https://www.linkedin.com/in/marcos-almeida-5376a5118/)
-    - [YouTube](https://www.youtube.com/channel/UCAMf3gWDIhrx44TRoDCCNmQ)
-    - [Instagram](https://www.instagram.com/marcostag_/)
+- [LinKedIn](https://www.linkedin.com/in/marcos-almeida-5376a5118/)
+- [YouTube](https://www.youtube.com/channel/UCAMf3gWDIhrx44TRoDCCNmQ)
+- [Instagram](https://www.instagram.com/marcostag_/)
 
 ## Donate
-
-> [!TIP] > [Credit Card](https://www.paypal.com/donate/?business=5FC7PT8RV3KHS&no_recurring=0&item_name=Materializar+sua+gratid%C3%A3o+em+forma+de+doa%C3%A7%C3%A3o+de+qualquer+valor+%C3%A9+reconhecer+todo+esfor%C3%A7o+dedicado+nas+pequenas+causas) > **PIX**: doepix@marcostag.com.br
+If this project has been helpful to you, please consider making a financial contribution. Your support helps us continue developing and improving this tool!
+> [!TIP]
+> - [Credit Card](https://www.paypal.com/donate/?business=5FC7PT8RV3KHS&no_recurring=0&item_name=Materializar+sua+gratid%C3%A3o+em+forma+de+doa%C3%A7%C3%A3o+de+qualquer+valor+%C3%A9+reconhecer+todo+esfor%C3%A7o+dedicado+nas+pequenas+causas)
+> - **PIX**: doepix@marcostag.com.br
 
 ### :rocket:ENJOY!
