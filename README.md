@@ -25,11 +25,9 @@ Tired of multi-step purchases? This plugin adds a "Buy Now" button to your WooCo
 > 1. Before activating this Plugin, carefully read the instructions contained in this document.
 > 2. Before activating this Plugin, the Woocommerce Plugin MUST already be installed, activated and correctly configured.
 > 3. The "Direct Checkout" Button is based on AJAX. Therefore, it is necessary to have the following configuration in your Woocommerce:
-
-    - a. In the Wordpress menu click on: Woocommerce -> Settings -> Products -> General;
-    - b. On this screen, in the "Add to cart behavior" option, the input "Enable AJAX add to cart buttons on archives" must be CHECKED;
-
-> 4. After following these brief instructions, this Plugin will be ready to be activated and configured.
+    a. In the Wordpress menu click on: Woocommerce -> Settings -> Products -> General;
+    b. On this screen, in the "Add to cart behavior" option, the input "Enable AJAX add to cart buttons on archives" must be CHECKED;
+> 5. After following these brief instructions, this Plugin will be ready to be activated and configured.
 
 ## About me
 
